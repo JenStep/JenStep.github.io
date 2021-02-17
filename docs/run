@@ -2,7 +2,7 @@
 #script to build and serve website for testing
 
 echo Building...
-bundle exec jekyll build
+bundle exec jekyll build --watch
 
 #check if successful
 if [ $? -eq 0 ]; then

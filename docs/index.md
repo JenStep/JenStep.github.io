@@ -1,8 +1,8 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
+title: ""
 ---
 
-Welcome to my site!
+# Welcome!
+
+A recent computer science grad, I'm looking for opportunities to broaden my skills and contribute to my community. I work in C/C++, Racket, Java, JavaScript, Python, ABAP, and learn new languages quickly. With Agile Development methods, I have hands-on experience developing tests and improving existing codebases at Autodesk, Northrop Grumman Corporation, and Hewlett Packard. Sound like a match? Send me a note!
