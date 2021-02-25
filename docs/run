@@ -2,13 +2,13 @@
 #script to build and serve website for testing
 
 echo Building...
-bundle exec jekyll build --watch
+bundle exec jekyll build
 
 #check if successful
 if [ $? -eq 0 ]; then
 	echo Build Succeeded
 	echo Serving...
-	bundle exec jekyll serve
+	bundle exec jekyll serve --watch
 else
 	echo ERROR: Build Failed
 fi
