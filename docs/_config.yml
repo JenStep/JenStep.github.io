@@ -22,11 +22,11 @@ url: "https://jenstep.github.io" # the base hostname & protocol for your site, e
 
 # Build settings
 markdown: kramdown
-theme: personal-theme
+theme: jenstep_theme
 collections:
   - widgets
 
-personal-theme:
+jenstep_theme:
   date_format: "%b %-d, %Y"
   # social links in footer
   social_links:
