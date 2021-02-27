@@ -14,29 +14,19 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Jenna Stephens
-email: jenna.r.step@gmail.com
+email: stephens.jenna.r@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Software Engineer | Programmer
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://jenstep.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  JenStep
 
 # Build settings
 markdown: kramdown
-theme: jenstep_theme
-collections:
-  - widgets
-
-jenstep_theme:
-  date_format: "%b %-d, %Y"
-  # social links in footer
-  social_links:
-    github_username: JenStep
-    linkedin_username: jenna-step
-
+theme: minima
 
 plugins:
   - jekyll-feed
-  - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
