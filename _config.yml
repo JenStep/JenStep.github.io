@@ -17,10 +17,10 @@ destination: "docs/"
 
 title: Jenna Stephens
 author:
-  author: Jenna Stephens
+  name: Jenna Stephens
   email: jenna.r.step@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Software Engineer | Programmer
+  Software Engineer | Programmer | Open to Work!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://jenstep.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -31,7 +31,7 @@ theme: jenstep_theme
 collections:
   - widgets
 
-personal-theme:
+jenstep_theme:
   date_format: "%b %-d, %Y"
   # social links in footer
   social_links:
