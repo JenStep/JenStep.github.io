@@ -2,7 +2,7 @@
 layout: widget
 title: Education
 ---
-## Education
+## **<span style="color:#8b0000"> Education </span>**
 
 ### California Polytechnic State University, San Luis Obispo
 > #### B.S. Computer Science 
