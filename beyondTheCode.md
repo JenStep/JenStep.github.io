@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Beyond the Code"
-order: 5
+permalink: /beyondTheCode/
 ---
 
 # Beyond the Code

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Contact Me"
-order: 2
+permalink: /contactMe/
 ---
 
 # Contact Me!
