@@ -4,3 +4,7 @@
   url: /contactMe
 - title: Beyond the Code
   url: /beyondTheCode
+- title: Projects
+  sublinks:
+  - title: K-12 Visual CS Standards
+    url: /csStandards
