@@ -5,6 +5,7 @@
 - title: Beyond the Code
   url: /beyondTheCode
 - title: Projects
+  url: /projects
   sublinks:
   - title: K-12 Visual CS Standards
     url: /csStandards

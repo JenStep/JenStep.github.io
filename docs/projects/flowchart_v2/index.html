@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="">
+  <head>
+    <style>
+      .container {
+        display:flex;
+        flex-wrap: wrap;
+        justify-content:  center;
+        flex-direction: row;
+      }
+      .one {
+      }
+      .two {
+       
+      }
+      .three {
+        
+      }
+    </style>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flowchart CS Standard</title>
+    <script src="https://cdn.jsdelivr.net/gh/processing/p5.accessibility@0.2.0/dist/p5.accessibility.js"></script>
+    <script src="lib/p5.js"></script>
+    <script src="lib/p5.sound.js"></script>
+    <script src="lib/flowchart.data.js"></script>
+    <script src="lib/flowchart.anim.js"> </script>
+    <script src="lib/flowchart.js"></script>
+    <script src="sketch.js"></script>
+  </head>
+  <body>
+    <style> 
+      body {
+        padding: 0; 
+        margin: auto; 
+        background-color:#330033;
+      } 
+    </style>
+    <div id="titleSketch"></div>
+    <div id="wrapper"; class="container">
+      <div id = 'animSketch'; class="one"> </div>
+      <div id = 'flowSketch'; class="two"> </div>
+      <div id = 'detailSketch'; class="three"> </div>
+    </div>
+    <div id='parentSketch'></div>
+  </body>
+</html>
