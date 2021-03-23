@@ -7,9 +7,6 @@ permalink: /csStandards/
 
 The state of California defined K-12 computer science standards. This work is part of an on-going effort to help K-12 teachers understand and teach these new CS standards.
 
-<!-- import custom stylesheet -->
-<link rel="stylesheet" type="text/css" media="all" href="/assets/custom.css"/>
-
 <!-- create image link -->
 <div class="container-link">
 	<a href="/projects/flowchart_v1/index.html" target="_blank">
