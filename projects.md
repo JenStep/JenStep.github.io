@@ -7,9 +7,10 @@ permalink: /projects/
 # Select a Project Below to Explore
 
 <!-- create image link -->
-<div class="gradient-wrapper">
-	<a href="/csStandards/">
-		<div class="gradient-box">
+<div class="container-link">
+	<a href="/projects/flowchart_v2/index.html" target="_blank">
+		<img src="/assets/sample.jpeg" alt="Generic Image of Code" class="img-link">
+		<div class="text-link">
 			K-12 Visual CS Standards
 		</div>
 	</a>

@@ -1,11 +1,11 @@
 - title: Home
   url: /
 - title: Contact Me
-  url: /contactMe
+  url: /contactMe/
 - title: Beyond the Code
-  url: /beyondTheCode
+  url: /beyondTheCode/
 - title: Projects
-  url: /projects
+  url: /projects/
   sublinks:
   - title: K-12 Visual CS Standards
-    url: /csStandards
+    url: /csStandards/
